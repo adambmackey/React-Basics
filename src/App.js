@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import Parent from './components/Parent';
 import './App.css';
 
@@ -12,3 +12,6 @@ function App() {
 }
 
 export default App;
+
+
+// This is the practice we did with Andrew and Brady. 

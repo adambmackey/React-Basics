@@ -7,6 +7,7 @@ const Parent = () => {
 
     return (
         <div>
+            <h2>Parent Component</h2>
             <input 
                 type='text' 
                 placeholder='type something here'
